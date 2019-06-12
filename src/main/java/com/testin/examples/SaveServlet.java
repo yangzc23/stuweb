@@ -15,9 +15,7 @@ import com.testin.utils.DBUtil;
 
 
 public class SaveServlet extends HttpServlet {
-	/**
-	 * 
-	 */
+
 	private static final long serialVersionUID = 1L;
 
 	@Override
@@ -58,7 +56,7 @@ public class SaveServlet extends HttpServlet {
 			}
 		}
 		pw.println("<head>"
-				+ "<script>setTimeout(function(){window.location='http://127.0.0.1:8080/welcome'}, 3000)</script>"
+				+ "<script>setTimeout(function(){window.location='welcome'}, 3000)</script>"
 				+ "</head>"
 				+ "<body>"
 				+ "<h1>注册成功！页面即将跳转</h1>"

@@ -59,7 +59,7 @@ public class UpdateServlet extends HttpServlet {
 			}
 		}
 		pw.println("<head>"
-				+ "<script>setTimeout(function(){window.location='http://127.0.0.1:8080/welcome'}, 3000)</script>"
+				+ "<script>setTimeout(function(){window.location='welcome'}, 3000)</script>"
 				+ "</head>"
 				+ "<body>"
 				+ "<h1>修改成功！页面即将跳转</h1>"
