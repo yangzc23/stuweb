@@ -43,3 +43,12 @@
 ![image.png](https://upload-images.jianshu.io/upload_images/10027900-bc55539acc5cee90.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
 
 ![image.png](https://upload-images.jianshu.io/upload_images/10027900-699c2905e14b4882.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+**微信扫一扫关注公众号**
+
+![image.png](https://imgconvert.csdnimg.cn/aHR0cHM6Ly91cGxvYWQtaW1hZ2VzLmppYW5zaHUuaW8vdXBsb2FkX2ltYWdlcy8xMDAyNzkwMC0yMzM2ODlhNjQ1YTM2YTEyLnBuZw?x-oss-process=image/format,png#pic_center)
+
+**点击链接加入群聊**
+
+[https://jq.qq.com/?_wv=1027&k=5eVEhfN](https://jq.qq.com/?_wv=1027&k=5eVEhfN)
+软件测试学习交流QQ群号：**511619105**
